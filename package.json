@@ -1,5 +1,5 @@
 {
-  "@bettyvng/lotide": "lotide",
+  "name": "@bettyvng/lotide",
   "version": "1.0.0",
   "description": "clone of lodash JS library",
   "main": "assertArraysEqual.js",
@@ -24,6 +24,7 @@
     "mocha": "^9.1.3"
   },
   "dependencies": {
+    "n_": "^3.0.0",
     "semver": "^7.3.5"
   }
 }
